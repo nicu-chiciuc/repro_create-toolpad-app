@@ -1,5 +1,5 @@
 
->>>>>>> pnpm dlx create-toolpad-app repro_create-toolpad-app
+### pnpm dlx create-toolpad-app repro_create-toolpad-app
 ```
 .../Library/pnpm/store/v3/tmp/dlx-89632  |  +92 +++++++++
 .../Library/pnpm/store/v3/tmp/dlx-89632  | Progress: resolved 92, reused 92, downloaded 0, added 92, done
@@ -42,9 +42,9 @@ Run the following to get started:
   pnpm run dev
 ```
 
->>>>>>> cd ./repro_create-toolpad-app/
+### cd ./repro_create-toolpad-app/
 
->>>>>>> pnpm run dev
+### pnpm run dev
 ```
 > repro_create-toolpad-app@0.1.0 dev /Users/nicu/dev/my/legis_gpt/repro_create-toolpad-app
 > toolpad dev
