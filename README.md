@@ -116,3 +116,6 @@ Failed to resolve import "@mui/toolpad-app/runtime" from "/canvas.tsx". Does the
       at async Object.transform (file:///Users/nicu/dev/my/legis_gpt/repro_create-toolpad-app/node_modules/.pnpm/vite@4.3.9_@types+node@20.3.1/node_modules/vite/dist/node/chunks/dep-e8f070e8.js:42919:30)
       at async loadAndTransform (file:///Users/nicu/dev/my/legis_gpt/repro_create-toolpad-app/node_modules/.pnpm/vite@4.3.9_@types+node@20.3.1/node_modules/vite/dist/node/chunks/dep-e8f070e8.js:53385:29)
 ```
+
+<!-- Show image for Github README -->
+<img src="./screenshot.png" alt="Screenshot of the error" />
