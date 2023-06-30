@@ -118,4 +118,4 @@ Failed to resolve import "@mui/toolpad-app/runtime" from "/canvas.tsx". Does the
 ```
 
 <!-- Show image for Github README -->
-<img src="./screenshot.png" alt="Screenshot of the error" />
+![Screenshot of the error](./screenshot.png)
